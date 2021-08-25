@@ -1,6 +1,7 @@
 # TO DO LIST
 
-In this project you can: 
+In this project you can:
+
 - add item in list;
 - delete item from list;
 - edit item;
