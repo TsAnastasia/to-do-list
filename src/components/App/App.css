@@ -1,0 +1,15 @@
+.app {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 768px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.app__title {
+  margin: 10px 0;
+  padding: 0;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 30px;
+  color: #0099ff;
+}
