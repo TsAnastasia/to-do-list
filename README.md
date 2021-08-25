@@ -7,6 +7,8 @@ In this project you can:
 - edit item;
 - mark item as completed.
 
+[Try](https://tsanastasia.github.io/to-do-list/)
+
 All data save in local storage.
 
 Author: Anastasia Tsibernaya, 2021.
